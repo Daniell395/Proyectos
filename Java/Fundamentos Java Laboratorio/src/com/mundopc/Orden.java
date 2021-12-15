@@ -24,5 +24,8 @@ public class Orden {
         for (int i = 0; i < this.contador_computadoras; i++) {
             System.out.println(this.computadoras[i]);
         }
+
     }
+
+
 }
